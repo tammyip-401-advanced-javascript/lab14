@@ -24,6 +24,7 @@ Setup
 + The route to sign in is: `http://localhost:3000/signin`
 + The route to get a list of users is: `http://localhost:3000/users`
 + The route to show the currnt logged in user is: `http://localhost:3000/user`
++ The other routes that are access roles specific can be found in the rbac-routes.js file
 + To connect to Mongo database, use the following information:
 MONGODB_URI=mongodb://localhost:27017/api-server
 HOST=localhost:3000
@@ -34,4 +35,5 @@ Tests
 Testing command: `npm test` from root directory
 
 UML
-https://docs.google.com/spreadsheets/d/1jTPJISU_-kvoNvuk_PucrSONDy2ZWLaJq2EUl536hBM/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/12JjesLxIurcBCVl3rNxsYQ2d1Ned5ceuElhoOV2P-V8/edit?usp=sharing
+
