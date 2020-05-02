@@ -5,8 +5,8 @@ Project Name: Access Control
 Author: Tammy Ip
 
 Links and Resources (see below)
-submission PR: https://github.com/tammyip-401-advanced-javascript/lab10/pull/1
-Heroku Deployment:  https://js401n16-lab10.herokuapp.com/
+submission PR: `https://github.com/tammyip-401-advanced-javascript/lab14/pull/1`
+Heroku Deployment:  `https://js401n16-lab14.herokuapp.com/`
 Code Fellows Supergoose: https://www.npmjs.com/package/@code-fellows/supergoose
 
 Documentation
